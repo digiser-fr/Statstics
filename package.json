@@ -1,0 +1,25 @@
+{
+  "name": "statstics",
+  "version": "0.1.0",
+  "description": "Output status data to static html files!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digiser-fr/Statstics.git"
+  },
+  "keywords": [
+    "status-page",
+    "static",
+    "jamstack",
+    "github-actions"
+  ],
+  "author": "Digiser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digiser-fr/Statstics/issues"
+  },
+  "homepage": "https://github.com/digiser-fr/Statstics#readme"
+}
