@@ -1,3 +1,6 @@
+# During dev, disable all html files
+*.html
+
 # Logs
 logs
 *.log
